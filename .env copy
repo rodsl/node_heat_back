@@ -1,0 +1,10 @@
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#using-environment-variables
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server and MongoDB (Preview).
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+GITHUB_CLIENT_ID=0ba19e84c30734d9a9f7
+GITHUB_CLIENT_SECRET=6e58e232e1e3e2f5770d1ba2ef2ed941196d0a64
+
+JWT_SECRET=be7094c95fddb036023ddecd5fd6da38
